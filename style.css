@@ -1,0 +1,23 @@
+td{
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+img{
+    display: block;
+}
+td:hover{
+    transform: scale(1.3); */
+    transition: 2s;
+}
+/* @keyframes chase{
+    from{
+        background-color: red;
+    }
+    to{
+        background-color: yellow;
+    }
+}
+td{
+    animation: chase 0.50s ease-in-out 2s infinite ;
+} */
